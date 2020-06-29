@@ -10,7 +10,7 @@ namespace Exemplo1.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Página Inicial ";
 
             return View();
         }
